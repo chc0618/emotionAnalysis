@@ -46,7 +46,7 @@
 					<i class="fa fa-bars"></i>
 				</a> <a href="index.shtml#" class="navbar-brand"
 					data-toggle="fullscreen"><img
-					src="${ctx}/notebook/notebook_files/logo.png" class="m-r-sm">BIGDATA</a>
+					src="${ctx}/notebook/notebook_files/logo.png" class="m-r-sm">基于情感词典的情感计算平台</a>
 				<a class="btn btn-link visible-xs" data-toggle="dropdown"
 					data-target=".nav-user"> <i class="fa fa-cog"></i>
 				</a>
